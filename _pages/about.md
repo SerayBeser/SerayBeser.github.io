@@ -12,7 +12,7 @@ redirect_from:
 * I received my Bachelor’s Degree in Computer Engineering at [TOBB University of Economics and Technology](https://www.etu.edu.tr/en).
 * My research interests lie primarily in the area of Data Science spanning both machine learning and deep learning.
 
----
+
 ## Recent News
 
 * November 1, 2017. A paper titled "Future circular collider based lepton–hadron and photon–hadron colliders: Luminosity and physics" was accepted in *Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment*.

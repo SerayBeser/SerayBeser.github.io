@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Seray Beser"
+title: "Seray Beşer"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Seray Beşer
-============
 
 
 Education

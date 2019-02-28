@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/seraybeser/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -114,7 +114,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  acclaim          : "https://www.youracclaim.com/users/seray-beser"
+  kaggle           : "https://www.kaggle.com/seraybeser"
+  tableau          : "https://public.tableau.com/profile/seray.beser#!/"
 
 # Reading Files
 include:

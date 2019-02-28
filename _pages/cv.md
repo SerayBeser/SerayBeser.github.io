@@ -10,13 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-Education
----------
-
-2013-2018
-:   **Bachelor of Science, Computer Engineering**: TOBB University of Economics and Technology, Ankara, Turkey
-
-
 Experience
 ----------
 
@@ -61,7 +54,20 @@ May 2017 - Dec 2017: **Cooperative Education**: [TOBB University of Economics an
 * Worked on the resonant production of fourth chiral family up quark at the Large Hadron Collider.
 
 
+Education
+---------
+
+2013-2018
+:   **Bachelor of Science, Computer Engineering**: TOBB University of Economics and Technology, Ankara, Turkey
 
 
+Projects
+---------
+
+**Kaggle: Spooky Author Identification (Top 11%)**: Designed a deep learning model for text classification, using embedded layers in long-short term memory to successfully identify the author of the sentences.
+
+**Kaggle: Titanic: Machine Learning from Disaster (Top 1%)**: Built an ensemble of three different models to accurately predict survival on the Titanic.
+
+**Interdisciplinary Senior Project, Climate-Smart Agricultural Technologies : Mushroom Cultivation Unit**: The aim of the project is to produce fast, healthy and fresh mushrooms. A design was developed for this purpose. Mushroom Cultivation Unit provides optimum environmental conditions for different types of fungi, and also informs the user about peripheral conditions such as the status of the fungus. It can be connected the mobile phones via bluetooth and the product can be controlled from android application. 
 
 

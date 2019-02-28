@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Data Scientist at [STM, Defense Technologies Engineering and Trade](https://www.stm.com.tr/en).
+*  I am working at company [STM, Defense Technologies Engineering and Trade Inc](https://www.stm.com.tr/en) as a data scientist.
 * I received my Bachelor’s Degree in [TOBB University of Economics and Technology](https://www.etu.edu.tr/en).
+* My research interests lie primarily in the area of Data Science spanning both machine learning and deep learning.
 

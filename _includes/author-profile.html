@@ -121,7 +121,12 @@
 {% endif %}
 
 {% if author.tableau %}
-        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-wikipedia-w" aria-hidden="true"></i> Tableau</a></li>
+        <li><a href="https://public.tableau.com/profile/{{ author.tableau }}"><i class="fab fa-wikipedia-w" aria-hidden="true"></i> Tableau</a></li>
+{% endif %}
+
+
+{% if author.acclaim %}
+        <li><a href="https://www.youracclaim.com/users/{{ author.acclaim }}"><i class="ai ai-acclaim-square ai-fw" aria-hidden="true"></i> Acclaim</a></li>
 {% endif %}
     </ul>
   </div>
